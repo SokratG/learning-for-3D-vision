@@ -1,4 +1,4 @@
-# Carnegie Mellon University course - 16-825: Learning for 3D Vision
+# Carnegie Mellon University course assignments - [16-825: Learning for 3D Vision](https://learning3d.github.io)
 ### My solution of assignments Spring 2024
 ##
 - [x] Assignment 1 (Rendering with PyTorch3D)
